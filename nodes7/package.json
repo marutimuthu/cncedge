@@ -1,0 +1,23 @@
+{
+  "name": "cncedge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marutimuthu/cncedge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marutimuthu/cncedge/issues"
+  },
+  "homepage": "https://github.com/marutimuthu/cncedge#readme",
+  "dependencies": {
+    "node-snap7": "^1.0.6"
+  }
+}
